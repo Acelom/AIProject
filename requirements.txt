@@ -1,0 +1,6 @@
+future~=0.18.2
+numpy~=1.20.0rc1
+torch~=1.13.1+cu116
+opencv-python~=4.6.0.66
+torchvision~=0.14.1+cu116
+Pillow~=9.3.0
